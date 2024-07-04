@@ -1,2 +1,2 @@
-Pandas Built-in Data Visualization,
+Pandas Built-in Data Visualization
 Plotly and Cufflinks
